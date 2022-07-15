@@ -1,0 +1,16 @@
+. src
++---. app
+|   +--. payment-details
+|   |  |--payment-details.componenent.ts| .html| .css
+|   +--. payment-details-form
+|   |  |--payment-details-form.componenent.ts| .html| .css
+|   |
+|   +--. shared
+|   |  |--payment-detail.service.ts
+|   |  |--payment-detail.modul.ts
+|   |       
+|   |--app.module.ts
+|
+|--index.html (cdn path for bootstrap & fa icons)
+
+
